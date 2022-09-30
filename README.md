@@ -1,2 +1,2 @@
 # Plug-in
-sample plug in
+Plug in tutorials
